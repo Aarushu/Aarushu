@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Html, Css and js.
 - I Love Cubing, Mountain Biking, And Coding
-- 
+- I'm also a guitarist🎸🎸
 
 <!---
 Aarushu/Aarushu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
