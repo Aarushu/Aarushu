@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aarushu
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Html, Css and js.
+- 🌱 I’m currently learning Html, Css, Python and Js.
 - I Love Cubing, Mountain Biking, And Coding
 - I'm also a guitarist🎸🎸
 
